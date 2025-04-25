@@ -1,5 +1,9 @@
 # Desafio Alura: Análise da loja Alura Store
 
+<a target="_blank" href="https://colab.research.google.com/github/erivelton-jr/alura-store-analysis/">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+</a>
+
 ## Desafio
 Durante este desafio, eu irei ajudar o Senhor João a decidir qual loja da sua rede Alura Store vender para iniciar um novo empreendimento. Para isso, vou analisar dados de vendas, desempenho e avaliações das 4 lojas fictícias da Alura Store. O objetivo é identificar a loja com menor eficiência e apresentar uma recomendação final baseada nos dados.
 
@@ -20,7 +24,7 @@ Durante este desafio, eu irei ajudar o Senhor João a decidir qual loja da sua r
 2. [Vendas por Categoria](#2-vendas-por-categoria)
 3. [Média de Avaliação das Lojas](#3-média-de-avaliação-das-lojas)
 4. [Produtos Mais e Menos Vendidos](#4-produtos-mais-e-menos-vendidos)
-5. [Frete Médio por Loja]()
+5. [Frete Médio por Loja](#5-frete-médio-por-loja)
 ---
 ## Visualização e Isights
 ### 1. Análise do faturamento
