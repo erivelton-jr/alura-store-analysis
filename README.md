@@ -54,9 +54,7 @@ Loja 4 é a que mais sofre variação negativa em várias categorias, o que pode
 
 ##### Produtos mais vendidos:
 
-- Cômoda foi o produto com maior destaque, alcançando 210 unidades vendidas.
-- Houve um empate entre Micro-ondas e Carrinho controle remoto, ambos com 206 unidades, o que indica um bom desempenho em categorias distintas (eletrodoméstico e brinquedo).
-- Todos os itens nesta lista ultrapassaram a marca de 200 vendas, refletindo forte aceitação no mercado.
+Os dados revelam padrões interessantes, como a TV Led UHD 4K sendo destaque em vendas e faturamento na Loja 1, e o Celular Plus X42 liderando o faturamento em várias lojas. Por outro lado, itens como calculadoras, canecas e jarra térmica aparecem frequentemente entre os menos vendidos e menos rentáveis, indicando baixa rotatividade e possível oportunidade de descontinuação ou promoção estratégica.
 
 ##### Predutos menos vendidos:
 - Celular ABXY teve a menor quantidade de vendas, com 157 unidades
