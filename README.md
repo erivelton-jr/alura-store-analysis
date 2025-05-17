@@ -52,13 +52,7 @@ Loja 4 é a que mais sofre variação negativa em várias categorias, o que pode
 ---
 ### 4. Produtos Mais e Menos Vendidos
 
-##### Produtos mais vendidos:
-
 Os dados revelam padrões interessantes, como a TV Led UHD 4K sendo destaque em vendas e faturamento na Loja 1, e o Celular Plus X42 liderando o faturamento em várias lojas. Por outro lado, itens como calculadoras, canecas e jarra térmica aparecem frequentemente entre os menos vendidos e menos rentáveis, indicando baixa rotatividade e possível oportunidade de descontinuação ou promoção estratégica.
-
-##### Predutos menos vendidos:
-- Celular ABXY teve a menor quantidade de vendas, com 157 unidades
-- Os produtos nessa lista estão abaixo de 170 vendas, o que representa uma margem considerável em relação aos mais vendidos.
 
 ![alt text](img/chart_4.png)
 ---
